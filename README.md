@@ -1,4 +1,4 @@
 # CHA
 This is my first Git repository.
 <br>
-Author - Hasan Charoliya
+Author - Hasan Charoliya (CHA)
